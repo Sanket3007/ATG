@@ -1,0 +1,7 @@
+.home{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 28px;
+}

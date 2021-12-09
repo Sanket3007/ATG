@@ -1,0 +1,117 @@
+.job{
+    width: 692px;
+    height: 269px;
+    left: 200px;
+    margin: 0px 25px 40px 25px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #E0E0E0;
+}
+
+.jobTopic{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.mainTitle{
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 600px;
+    height: 30px;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 134.55%;
+    color: #000000;
+}
+
+.companyName{
+    display: flex;
+    flex-direction: row;
+}
+
+.companyLogo{
+    margin-left: 20px;
+    margin-top: 13.67px;
+}
+
+.company{
+    margin-left: 5.87px;
+    margin-top: 13px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.jobLocation{
+    margin-left: 44.17px;
+    margin-top: 12.42px;
+}
+
+.jobPlace{
+    margin-left: 8.17px;
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 19px;
+}
+
+.visit{
+    background: #FFFFFF;
+    border: 0.7px dashed #A9AEB8;
+    box-sizing: border-box;
+    border-radius: 8px;
+    width: 652px;
+    height: 38px;
+    margin-top: 16px;
+    margin-left: 20px;
+}
+
+.visitText{
+    margin: 9px 266px 9px 266px;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 140.4%;
+    color: #02B875;
+}
+
+
+.jobUserInfo{
+    display: flex;
+    flex-direction: row;
+    margin-top: 32px;
+    margin-bottom: 20px;
+}
+
+.jobUserLogo{
+    margin-left: 20px;
+    border-radius: 24px;
+}
+
+.jobUserName{
+      margin-left: 12px;
+      margin-top: 10px;
+}
+
+.jobEye{
+    margin-left: 297.62px;
+    margin-top: 10px;
+    color: #77787b;
+}
+
+.jobView{
+    margin-left: 8.75px;
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #525252;
+}
+
+.jobShare{
+    margin-left: 40px;
+    margin-top: 6px;
+    color: #77787b;
+    font-size: 25px;
+}
+

@@ -1,0 +1,89 @@
+.education {
+    width: 692px;
+    height: 472px;
+    left: 200px;
+    margin: 16px 25px 40px 25px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #E0E0E0;
+  }
+
+  .educationImg{
+    width: 100%;
+    height: 220px;
+    left: 200px;
+    border-radius: 4px 4px 0px 0px;
+  }
+
+  .educationInfo{
+      display: flex;
+      flex-direction: column;
+
+  }
+
+  .educationTopic{
+      margin-left: 20px;
+      margin-top: 20px;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 23px;
+      color: #000000;
+  }
+
+  .educationTitle{
+      margin-left: 20px;
+      margin-top: 10px;
+      font-weight: 600;
+      font-size: 22px;
+      line-height: 134.17%; 
+      color: #000000;    
+  }
+
+  .educationDescp{
+      margin-left: 20px;
+      margin-top: 12px;
+      margin-right: 20px;
+      font-size: 19px;
+      line-height: 134.17%;
+      color: #5C5C5C;
+  }
+
+  .educationUserInfo{
+      display: flex;
+      flex-direction: row;
+      margin-top: 32px;
+      margin-bottom: 20px;
+  }
+
+  .educationUserLogo{
+      margin-left: 20px;
+      border-radius: 24px;
+  }
+
+  .educationUserName{
+        margin-left: 12px;
+        margin-top: 10px;
+  }
+
+  .educationEye{
+      margin-left: 297.62px;
+      margin-top: 10px;
+      color: #77787b;
+  }
+
+  .educationView{
+      margin-left: 8.75px;
+      margin-top: 10px;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 18px;
+      color: #525252;
+  }
+
+  .educationShare{
+      margin-left: 40px;
+      margin-top: 6px;
+      color: #77787b;
+      font-size: 25px;
+
+  }

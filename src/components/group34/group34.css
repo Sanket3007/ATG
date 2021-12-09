@@ -1,0 +1,65 @@
+.group34{
+    margin-left: 200px;
+    margin-top: 47px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.groupList{
+    display: flex;
+    list-style: none;
+}
+
+.group34ListItem{
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    cursor: pointer;
+    color: #000000;
+
+}
+
+.change{
+    color: #8A8A8A;
+}
+
+.group34-post{
+    width: 133px;
+    height: 36px;
+    background: #EDEEF0;
+    border-radius: 4px;
+    text-align: center;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    margin-left:408px;
+    color: #000000;
+}
+
+.join-group{
+    width: 125px;
+    height: 36px;
+    margin-left: 16px;
+    background: #2F6CE5;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    outline: none;
+}
+
+.buttonIcon, .buttonText{   
+    align-items: center;
+    padding: 0 4px;
+    color: white;
+}
+
+
+.line{
+    border: 1px solid #E0E0E0;
+    margin-top: 12px;
+    
+}

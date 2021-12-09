@@ -1,0 +1,46 @@
+.sidebar{
+    flex: 3;
+    margin: 20px;
+    width: 211px;
+    height: 150px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebarTitle{
+  margin-left: 20px;
+  margin-top: 15px;
+  margin-bottom: 11px;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 0.4px solid #B8B8B8;
+}
+
+.sidebarIconText{
+  margin-left: 11.27px;
+  margin-bottom: 11px;
+  font-size: 14px;
+  line-height: 18px;
+  
+  color: #000000;
+}
+
+.sidebarIconEdit{
+  margin-left: 76.5px;
+}
+
+.tooltip{
+  margin-left: 20px;
+}
+
+.tooltiptext{
+  font-size: 12px;
+  line-height: 16px;
+  margin-left: 8.33px;
+  color: #000000;
+  opacity: 0.5;
+}
+
+
+
